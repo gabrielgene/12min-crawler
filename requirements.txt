@@ -10,7 +10,7 @@ cssselect==1.0.1
 elasticsearch-dsl==5.2.0
 elasticsearch==5.3.0      # via elasticsearch-dsl
 invoke==0.17.0
-lxml==3.7.3
+lxml==4.6.5
 python-dateutil==2.6.0    # via elasticsearch-dsl
 python-decouple==3.0
 python-magic==0.4.13
